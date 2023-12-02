@@ -164,7 +164,7 @@ void lagi(){
 	}
 	else{
 		system("cls");
-		cout << "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t    TERIMA KASIH SUDAH MEMAINKAN GAME PACMAN by JIFARO\n\n\n";
+		cout << "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t    TERIMA KASIH SUDAH MEMAINKAN GAME PACMAN by ARRIZA\n\n\n";
 		cout << "\t\t\t\t\t\t          /\\_/\\" << endl;
 		cout << "\t\t\t\t\t\t         (  >.<)" << endl;
 		cout << "\t\t\t\t\t\t         / )[bye!]" << endl;
