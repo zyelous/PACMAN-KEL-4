@@ -5,10 +5,7 @@
    
  * Pada tanggal : 
  
- * Untuk mengkompilasi dan menjalankan program ini
-   silahkan menggunakan windows untuk hasil yang maksimal,
-   atau menggunakan IDE : dev-c++
-*/ 
+ 
 
 #include <iostream>             // untuk menampilkan perintah cout, cin, endl.
 #include <conio.h>              // untuk menampilkan fungsi getche().
