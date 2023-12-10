@@ -371,7 +371,7 @@ int main(){
 	ifstream myfile;
 	char sv_text;
 	
-	myfile.open("BATUGUNTING.txt", ios::app);
+	myfile.open("LOGO MENU.txt", ios::app);
 	
 	if (!myfile.fail()){
 		
